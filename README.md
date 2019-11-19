@@ -1,6 +1,6 @@
 # employee-portal-service
 This is a sample Spring Boot employee CURD opration service application.
-Technologies used : Spring Boot + Spring Security + Swagger Ui + h2 Database + Spring boot data JPA + lombok.
+###### APIs used : Spring Boot + Spring Security + Swagger Ui + h2 Database + Spring boot data JPA + lombok.
 
 Request and Response sample is not provided saparately. Use swagger ui to know about the request and response in details.
 
